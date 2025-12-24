@@ -10,6 +10,8 @@
   "dependencies": {
     "babel": "^5.8.38",
     "consign": "^0.1.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
   }
 }
